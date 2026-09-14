@@ -1,5 +1,3 @@
-### Hey there
-
 I'm **akhelyesa**, a Computer Science student focused on full-stack web development.
 
 In school I work with **C#, SQL, LINQ, and Blazor**. On my own, I built and hosted a site with **HTML, CSS, JavaScript, and TypeScript**, including API-based payments.
@@ -23,14 +21,3 @@ In school I work with **C#, SQL, LINQ, and Blazor**. On my own, I built and host
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-## GitHub Stats
-
-![akhelyesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhelyesa&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhelyesa&layout=compact&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=akhelyesa&hide_border=true)
-
-## Pinned
-
-- 🛡️ [phishguard](https://github.com/akhelyesa/phishguard) — phishing detection project
-- 📊 [DocumentDataValidator](https://github.com/akhelyesa/DocumentDataValidator) — C# console tool for comparing Excel document lists (reference vs received)
