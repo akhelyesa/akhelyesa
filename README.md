@@ -4,7 +4,7 @@ I'm akhelyesa, a Computer Science student focused on full-stack web development.
 
 - I don't do slow travel, always plotting the next trip
 - If I go quiet, I’m probably three episodes deep in an anime or a K-drama
-- Hobbies: boxing, and signing up for events I'm not ready for
+- Boxing, and signing up for events I'm not ready for
 
 **You can find me here**
 
