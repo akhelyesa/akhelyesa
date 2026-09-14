@@ -1,6 +1,4 @@
-I'm **akhelyesa**, a Computer Science student focused on full-stack web development.
-
-In school I work with **C#, SQL, LINQ, and Blazor**. On my own, I built and hosted a site with **HTML, CSS, JavaScript, and TypeScript**, including API-based payments.
+I'm akhelyesa, a Computer Science student focused on full-stack web development.
 
 #### Fun facts
 
